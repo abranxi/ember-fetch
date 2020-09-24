@@ -1499,9 +1499,9 @@
   integrity sha512-I8M/wFHTVi2BBNENbm5rizhYdgaXMdJPWjGDB55ON2q8FTMOL6lIoYODDl0PyRZey42yesbvs0IbdHSHePtOLQ==
 
 "@types/qunit@^2.9.0":
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/@types/qunit/-/qunit-2.9.0.tgz#0b3fcbe2b92f067856adac82ba3afbc66d8835ac"
-  integrity sha512-Hx34HZmTJKRay+x3sFdEK62I8Z8YSWYg+rAlNr4M+AbwvNUJYxTTmWEH4a8B9ZN+Fl61awFrw+oRicWLFVugvQ==
+  version "2.9.5"
+  resolved "https://registry.yarnpkg.com/@types/qunit/-/qunit-2.9.5.tgz#2f938870dac68e9464463ee36cdfb29538f4a2da"
+  integrity sha512-CdIcVLscYdlw1eLdHMF1Mw5uf/RbZ13JfM2nA0LNoJvonE91XFNu7njh1GcC1IFDKV1VTnyStQ1H8yCwk63hbw==
 
 "@types/rsvp@*", "@types/rsvp@^4.0.3":
   version "4.0.3"
