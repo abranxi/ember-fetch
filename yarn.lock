@@ -1259,12 +1259,13 @@
     "@types/rsvp" "*"
 
 "@types/ember-qunit@^3.4.6":
-  version "3.4.7"
-  resolved "https://registry.yarnpkg.com/@types/ember-qunit/-/ember-qunit-3.4.7.tgz#57dad9f01ff6136cdadf2a06b7089af91661d3b5"
-  integrity sha512-1VK5oazKvIenJK9M1DwXncgnpk+G1B1O4N7+ABml+V7+EGVhqpxfS3FRi3Y27+luPCQ3Ya1M8Da76fO85DNLrQ==
+  version "3.4.12"
+  resolved "https://registry.yarnpkg.com/@types/ember-qunit/-/ember-qunit-3.4.12.tgz#dde25567485b90ae7d54f9edec4afc6c15149b7f"
+  integrity sha512-haA9ByFKeVymfmZ0hoacSXqm3EmJMHgWhKk/x0N5CfGvo/iNpr3BmtovKAWx2jhdtr9N85qeFolA2QAcgmXmsw==
   dependencies:
     "@types/ember" "*"
     "@types/ember-test-helpers" "*"
+    "@types/qunit" "*"
 
 "@types/ember-test-helpers@*", "@types/ember-test-helpers@^1.0.5":
   version "1.0.6"
@@ -1498,10 +1499,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-9.6.53.tgz#dce152f939cc626dca9248ae8a84b93139a73183"
   integrity sha512-I8M/wFHTVi2BBNENbm5rizhYdgaXMdJPWjGDB55ON2q8FTMOL6lIoYODDl0PyRZey42yesbvs0IbdHSHePtOLQ==
 
-"@types/qunit@^2.9.0":
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/@types/qunit/-/qunit-2.9.0.tgz#0b3fcbe2b92f067856adac82ba3afbc66d8835ac"
-  integrity sha512-Hx34HZmTJKRay+x3sFdEK62I8Z8YSWYg+rAlNr4M+AbwvNUJYxTTmWEH4a8B9ZN+Fl61awFrw+oRicWLFVugvQ==
+"@types/qunit@*", "@types/qunit@^2.9.0":
+  version "2.9.5"
+  resolved "https://registry.yarnpkg.com/@types/qunit/-/qunit-2.9.5.tgz#2f938870dac68e9464463ee36cdfb29538f4a2da"
+  integrity sha512-CdIcVLscYdlw1eLdHMF1Mw5uf/RbZ13JfM2nA0LNoJvonE91XFNu7njh1GcC1IFDKV1VTnyStQ1H8yCwk63hbw==
 
 "@types/rsvp@*", "@types/rsvp@^4.0.3":
   version "4.0.3"
